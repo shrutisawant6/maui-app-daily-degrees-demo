@@ -1,4 +1,6 @@
-# Daily Degrees - MAUI Application
+# DailyDegrees - MAUI Application
+
+This application allows you to find a location and get daily weather updates in **real-time.**
 
 **Demo:**
 
