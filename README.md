@@ -1,0 +1,1 @@
+# Daily Degrees - MAUI Application
